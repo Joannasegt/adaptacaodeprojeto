@@ -59,13 +59,13 @@ h1{font-size: 40px;}
 p{font-size: 20px;}
 
 header{
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(210, 214, 219);
     padding: 20px;
     font-size: 25px;
-    color: rgb(42, 122, 228);}
+    color: rgb(203, 207, 212);}
 
 .chamada{
-    background: rgb(184, 156, 213);
+    background: rgb(231, 229, 233);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
